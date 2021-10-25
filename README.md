@@ -1,3 +1,5 @@
-Ajay Elamparithi - Fullstack Developer
+# Ajay Elamparithi - Fullstack Developer
+# Resume
+
 
 
